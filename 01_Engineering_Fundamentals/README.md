@@ -1,17 +1,17 @@
-# Engineering Fundamentals
+# Mühendislik Temelleri
 
-> *"We don't calculate to find the answer; we calculate to verify the AI."*
+> *"Cevabı bulmak için hesaplamıyoruz; AI'ı doğrulamak için hesaplıyoruz."*
 
-In the past, engineers were human calculators. Today, we are **validators**. This module teaches you the core principles so you can look at an AI-generated solution and know if it will stand or collapse.
+Geçmişte mühendisler insan hesap makineleriydi. Bugün ise biz **doğrulayıcılarız**. Bu modül size temel prensipleri öğretir, böylece AI tarafından üretilen bir çözüme baktığınızda onun ayakta mı kalacağını yoksa çökeceğini mi anlayabilirsiniz.
 
-## Metal Collar Focus
-- **Math as Verification**: Understanding Calculus to verify AI's physics simulations.
-- **First Principles**: Physics never changes. We use it to ground AI's hallucinations.
+## Metal Yaka Odak Noktası
+- **Doğrulama Aracı Olarak Matematik**: AI'ın fizik simülasyonlarını doğrulamak için Kalkülüs'ü anlamak.
+- **Birinci İlkeler**: Fizik asla değişmez. AI'ın halüsinasyonlarını yere basmak için fiziği kullanırız.
 
-## Topics
-- **Mathematics**: Calculus, Linear Algebra (The language of AI).
-- **Physics**: Mechanics, Electricity (The laws of the physical world).
-- **Technical Drawing**: Reading blueprints that AI generates.
+## Konular
+- **Matematik**: Kalkülüs, Lineer Cebir (AI'ın dili).
+- **Fizik**: Mekanik, Elektrik & Manyetizma, Termodinamik (Fiziksel dünyanın yasaları).
+- **Teknik Resim**: AI'ın ürettiği planları okumak.
 
-## Resources
-*(Add specific notes or links here)*
+## Kaynaklar
+*(Buraya özel notlar veya linkler ekleyin)*

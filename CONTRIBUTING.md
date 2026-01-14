@@ -1,24 +1,24 @@
-# Contributing to AU-ASOSB-Mechatronics-Notes
+# AU-ASOSB-Mechatronics-Notes'a Katkıda Bulunma
 
-First off, thanks for taking the time to contribute! This repository aims to be the ultimate resource for Mechatronics students at Anadolu University and ASOSB.
+Öncelikle, katkıda bulunmak için zaman ayırdığınız için teşekkürler! Bu depo, Anadolu Üniversitesi ve ASOSB'deki Mekatronik öğrencileri için nihai kaynak olmayı hedeflemektedir.
 
-## How to Contribute
+## Nasıl Katkıda Bulunulur?
 
-### 1. Reporting Bugs / Issues
-If you find a mistake in the notes or code, please look at the existing Issues. If you don't find it, open a new one.
+### 1. Hata / Sorun Bildirme
+Notlarda veya kodda bir hata bulursanız, lütfen mevcut "Issues" (Sorunlar) kısmına bakın. Bulamazsanız, yeni bir tane açın.
 
-### 2. Submitting Notes & Code
-1.  Fork the repo.
-2.  Create a new branch for your contribution (`git checkout -b feature/AmazingNote`).
-3.  Add your notes (Markdown preferred) or code examples.
-4.  Commit your changes (`git commit -m 'Add notes for Physics 1'`).
-5.  Push to the branch (`git push origin feature/AmazingNote`).
-6.  Open a Pull Request.
+### 2. Not ve Kod Gönderme
+1.  Repoyu fork'layın.
+2.  Katkınız için yeni bir dal (branch) oluşturun (`git checkout -b ozellik/HarikaNot`).
+3.  Notlarınızı (Markdown tercih edilir) veya kod örneklerinizi ekleyin.
+4.  Değişikliklerinizi commit'leyin (`git commit -m 'Fizik 1 notları eklendi'`).
+5.  Dalınıza push'layın (`git push origin ozellik/HarikaNot`).
+6.  Bir Pull Request (Çekme İsteği) açın.
 
-## Code Style
+## Kod Stili
 - **Python**: PEP 8
-- **C/C++**: Google Style Guide
-- **Markdown**: Clear headings, use code blocks for snippets.
+- **C/C++**: Google Stil Rehberi
+- **Markdown**: Net başlıklar, kod parçacıkları için kod blokları kullanın.
 
-## License
-By contributing, you agree that your contributions will be licensed under the MIT License.
+## Lisans
+Katkıda bulunarak, katkılarınızın MIT Lisansı altında lisanslanacağını kabul etmiş olursunuz.

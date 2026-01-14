@@ -1,15 +1,15 @@
-# Projects & Labs
+# Projeler & Laboratuvarlar
 
-> *"The Proof is in the Prototype."*
+> *"İspat Prototiptedir."*
 
-This is where the **Metal Collar** philosophy comes to life. A repo of code is useless without a machine that moves.
+Burası **Metal Yaka** felsefesinin hayat bulduğu yerdir. Hareket eden bir makine olmadan kod deposu anlamsızdır.
 
-## Metal Collar Portfolio
-- **Hybrid Builds**: Projects that combine heavy steel with smart code.
-- **The "Builder's Log"**: Documenting the *struggle* of making code work in the real world.
-- **From Screen to Shop Floor**: Real-world implementation of digital designs.
+## Metal Yaka Portfolyosu
+- **Hibrit Tasarımlar**: Ağır çeliği akıllı kodla birleştiren projeler.
+- **"Yapıcının Günlüğü"**: Kodu gerçek dünyada çalıştırmanın *mücadelesini* belgelemek.
+- **Ekrandan Atölyeye**: Dijital tasarımların gerçek dünya uygulaması.
 
-## Categories
-- **Lab Reports**: Academic verification of physical laws.
-- **Term Projects**: "Iron & Code" integrated systems.
-- **Capstone**: The Masterpiece. A fully autonomous, AI-driven physical system.
+## Kategoriler
+- **Laboratuvar Raporları**: Fiziksel yasaların akademik doğrulaması.
+- **Dönem Projeleri**: "Demir & Kod" entegre sistemler.
+- **Bitirme Projesi (Capstone)**: Başyapıt. Tam otonom, AI destekli fiziksel bir sistem.

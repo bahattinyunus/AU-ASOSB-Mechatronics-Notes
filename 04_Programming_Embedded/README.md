@@ -1,19 +1,19 @@
-# Programming & Embedded Systems
+# Programlama & Gömülü Sistemler
 
-> *"The Code is the Mind, The Chip is the Brain."*
+> *"Kod Zihindir, Çip Beyindir."*
 
-In the age of AI, we don't just write code; we **architect** it. This module focuses on using AI to generate robust C++ drivers while we focus on the hardware integration.
+AI çağında, sadece kod yazmıyoruz; onu **mimar** gibi tasarlıyoruz. Bu modül, biz donanım entegrasyonuna odaklanırken sağlam C++ sürücüleri oluşturmak için AI'ı kullanmaya odaklanır.
 
-## Metal Collar Focus
-- **AI-Assisted Coding**: Using LLMs to generate boilerplate, drivers, and algorithms.
-- **Prompt Engineering for Embedded**: How to ask AI to write optimized C code for STM32.
-- **Logic over Syntax**: We stop memorizing syntax and start mastering system logic.
+## Metal Yaka Odak Noktası
+- **AI Destekli Kodlama**: Hazır şablonlar, sürücüler ve algoritmalar oluşturmak için LLM'leri (Büyük Dil Modelleri) kullanmak.
+- **Gömülü Sistemler için İstemi Mühendisliği (Prompt Engineering)**: AI'dan STM32 için optimize edilmiş C kodunu nasıl isteyeceğinizi öğrenmek.
+- **Sözdizimi yerine Mantık**: Sözdizimini ezberlemeyi bırakıp sistem mantığında ustalaşmaya başlıyoruz.
 
-## Topics
-- **Programming Languages**:
-    - **C/C++**: The language of the machine. AI writes it, we verify detailed memory management.
-    - **Python**: For scripting, AI/ML models on Edge, and data analysis.
-- **Microcontrollers**:
-    - **STM32/ARM**: Professional industrial standard.
-    - **ESP32**: IoT and wireless control.
-- **Edge AI**: Running TinyML models directly on microcontrollers.
+## Konular
+- **Programlama Dilleri**:
+    - **C/C++**: Makinenin dili. AI yazar, biz detaylı bellek yönetimini doğrularız.
+    - **Python**: Scripting, Edge üzerinde AI/ML modelleri ve veri analizi için.
+- **Mikrodenetleyiciler**:
+    - **STM32/ARM**: Profesyonel endüstriyel standart.
+    - **ESP32**: IoT ve kablosuz kontrol.
+- **Edge AI**: TinyML modellerini doğrudan mikrodenetleyiciler üzerinde çalıştırmak.

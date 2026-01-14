@@ -1,20 +1,20 @@
-# Code of Conduct
+# Davranış Kuralları
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Taahhüdümüz
+Biz üyeler, katkıda bulunanlar ve liderler olarak; yaş, beden ölçüsü, görünür veya görünmez engellilik, etnik köken, cinsiyet özellikleri, cinsiyet kimliği ve ifadesi, deneyim seviyesi, eğitim, sosyo-ekonomik durum, milliyet, kişisel görünüm, ırk, din veya cinsel kimlik ve yönelimden bağımsız olarak topluluğumuza katılımı herkes için tacizden arındırılmış bir deneyim haline getirmeyi taahhüt ediyoruz.
 
-## Our Standards
-Examples of behavior that contributes to a positive environment for our community include:
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+## Standartlarımız
+Topluluğumuz için olumlu bir ortama katkıda bulunan davranış örnekleri:
+* Diğer insanlara karşı empati ve nezaket göstermek
+* Farklı görüşlere, bakış açılarına ve deneyimlere saygılı olmak
+* Yapıcı geri bildirim vermek ve bunları nezaketle kabul etmek
+* Hatalarımızdan sorumlu olmak, etkilenenlerden özür dilemek ve deneyimden ders çıkarmak
+* Sadece birey olarak bizim için değil, tüm topluluk için en iyi olana odaklanmak
 
-## Enforcement Responsibilities
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+## Yaptırım Sorumlulukları
+Topluluk liderleri, kabul edilebilir davranış standartlarımızı açıklığa kavuşturmak ve uygulamaktan sorumludur; uygunsuz, tehditkar, saldırgan veya zararlı gördükleri herhangi bir davranışa karşı uygun ve adil düzeltici önlemleri alacaklardır.
 
-## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+## Atıf
+Bu Davranış Kuralları, [Contributor Covenant][homepage] sürüm 2.0'dan uyarlanmıştır, adresi: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 [homepage]: https://www.contributor-covenant.org

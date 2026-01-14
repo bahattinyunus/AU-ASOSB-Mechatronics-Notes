@@ -1,10 +1,10 @@
-# Electrical & Electronics
+# Elektrik & Elektronik
 
-This module focuses on the hardware side of Mechatronics.
+Bu modül Mekatroniğin donanım tarafına odaklanır.
 
-## Topics
-- **Circuit Analysis**: DC/AC circuits, Kirchhoff's laws.
-- **Analog Electronics**: Diodes, Transistors (BJT, FET), Op-Amps.
-- **Digital Logic**: Boolean algebra, Logic gates, Flip-flops.
-- **Power Electronics**: Rectifiers, Inverters, Motor drives.
-- **Sensors & Actuators**: Types, operational principles, interfacing.
+## Konular
+- **Devre Analizi**: DC/AC devreler, Kirchhoff yasaları.
+- **Analog Elektronik**: Diyotlar, Transistörler (BJT, FET), Op-Amp'lar.
+- **Dijital Mantık**: Boole cebiri, Mantık kapıları, Flip-flop'lar.
+- **Güç Elektroniği**: Doğrultucular, İnvertörler, Motor sürücüler.
+- **Sensörler & Eyleyiciler**: Çeşitleri, çalışma prensipleri, arayüzleme.
