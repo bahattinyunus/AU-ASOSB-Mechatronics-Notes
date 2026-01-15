@@ -1,7 +1,7 @@
 ﻿# 🤖 Türkiye Mekatronik & Endüstriyel Otomasyon Rehberi: Dijital Tesisatçılık ve Siber Tamir Atölyesi
 
 > **Türkiye Cumhuriyeti'nin Geleçeki "Metal Yaka" Teknikerleri, Mühendisleri ve "Teknoloji Mimarları" İçin Nihai Bilgi Üssü**  
-> *Bu eser, Ankara Üniversitesi & ASOSB Laboratuvarlarında doğmuş, tüm Türkiye'deki Meslek Yüksekokulları ve Teknik Fakültelere ithaf edilmiştir.*
+> *Bu eser, Türkiye Cumhuriyeti'nin teknolojik bağımsızlık mücadelesine ve ülkenin dört bir yanındaki Meslek Yüksekokulları ile Teknik Fakültelere ithaf edilmiştir.*
 
 ![Mekatronik Banner](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=2070)
 
@@ -21,7 +21,7 @@ Bu depo, akademik dünyanın köklü **teorik derinliği** ile; Türkiye'nin dö
 
 Bu radikal farkındalık ve varoluşsal kriz beni, dijitalin soyut, temiz ve güvenli ofis dünyasından; üretimin somut, fiziksel, kaotik, gürültülü ve "kirli" kalbine itti: **Mekatronik**. Ancak bu, teknolojiden ve yazılımdan bir kaçış veya geri dönüş değildir; aksine teknolojinin en uç noktası olan AI'ı, metale, elektriğe ve harekete hükmetmek için bir araç olarak kullanma stratejisidir. Gelecekte ekrana bakıp sadece "kod yazan" değil; yazdığı kodu makineye işleyen, "kodu metale dönüştüren" kazanacaktır.
 
-**Türkiye Cumhuriyeti'nin** teknolojik kalkınma hamlesindeki misyonum ve bu deponun varoluş sebebi nettir: Hesaplama kapasitesinde ve tasarım hızında AI ile beyhude bir yarışa girmek yerine; onun ürettiği kusursuz çıktıları, şemaları ve kodları bir kaldıraç olarak kullanıp, bu dijital mükemmelliği fiziksel gerçeklikte hayata geçirmektir. Bu depo, ne sadece ofiste oturan beyaz yaka, ne de sadece tezgah başında bekleyen mavi yaka olan; ikisinin sentezi, hibrit bir süper çalışan olan **"AI Destekli Zanaatkar"** yani **Metal Yaka** çalışanları, yeni nesil **Siber Tamirciler** ve **Dijital Tesisatçılar** içindir.
+**Metal Yaka İnisiyatifi** ve bu deponun varoluş sebebi nettir: Hesaplama kapasitesinde ve tasarım hızında AI ile beyhude bir yarışa girmek yerine; onun ürettiği kusursuz çıktıları, şemaları ve kodları bir kaldıraç olarak kullanıp, bu dijital mükemmelliği fiziksel gerçeklikte hayata geçirmektir. Bu depo, ne sadece ofiste oturan beyaz yaka, ne de sadece tezgah başında bekleyen mavi yaka olan; ikisinin sentezi, hibrit bir süper çalışan olan **"AI Destekli Zanaatkar"** yani **Metal Yaka** çalışanları, yeni nesil **Siber Tamirciler** ve **Dijital Tesisatçılar** içindir.
 
 Bizler, iki dünya (Sanallık ve Gerçeklik) arasındaki köprüyüz. AI, sistemin dijital mantığını, optimizasyonunu, verimliliğini yönetirken; bizler fiziksel gerçeği, montajı, entegrasyonu, sürtünmeyi ve arızayı yönetiriz. AI bir bina çizer gibi robotu tasarlar; bizler ise o robotun "tesisatını" (kablolarını, pnömatik hortumlarını), "sinirlerini" (haberleşme hatlarını, sensörlerini) döşer ve "damarlarındaki" (güç elektroniği, motor akımları) tıkanıklığı açarız. İşte bu, **Tekniker 2.0**'ın geleceğidir: Tezgah başında, elinde multimetre ve tork anahtarı, önünde tablet ve osiloskop; yazılımın sonsuz gücünü somut, çalışan, değer üreten bir makineye dönüştüren hibrit bir profesyonel.
 
@@ -124,5 +124,5 @@ Bu proje, bilginin özgürce dolaşımını ve herkesin erişimini desteklemek a
 ---
 
 <p align="center">
-  <sub>© 2026 Türkiye Mekatronik Notları. "Metal Yaka" devrimi burada başlıyor. Tüm hakları saklıdır.</sub>
+  <sub>© 2026 Türkiye Mekatronik ve Otomasyon İnisiyatifi. "Metal Yaka" devrimi burada başlıyor. Tüm hakları saklıdır.</sub>
 </p>

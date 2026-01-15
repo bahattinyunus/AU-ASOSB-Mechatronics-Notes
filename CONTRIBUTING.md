@@ -1,6 +1,6 @@
-# AU-ASOSB-Mechatronics-Notes'a Katkıda Bulunma
+# Mekatronik & Otomasyon Rehberi'ne Katkıda Bulunma
 
-Öncelikle, katkıda bulunmak için zaman ayırdığınız için teşekkürler! Bu depo, Ankara Üniversitesi ve ASOSB'deki Mekatronik öğrencileri için nihai kaynak olmayı hedeflemektedir.
+Öncelikle, katkıda bulunmak için zaman ayırdığınız için teşekkürler! Bu depo, Türkiye'deki tüm Mekatronik ve Otomasyon öğrencileri ile sahadaki teknikerler için nihai kaynak olmayı hedeflemektedir.
 
 ## Nasıl Katkıda Bulunulur?
 
