@@ -1,5 +1,8 @@
 # 02. Elektrik & Elektronik: Devre Cerrahlığı, Dumanın Ruhu ve Fiziksel Hata Ayıklama
 
+![High Voltage](https://img.shields.io/badge/DANGER-High%20Voltage-red?style=for-the-badge&logo=electricity)
+![Skill](https://img.shields.io/badge/Skill-Soldering-blue?style=for-the-badge&logo=espressif)
+
 > *"Yazılımda hata yaparsan ekranda bir uyarı çıkar; elektronikte hata yaparsan bir patlama sesi duyarsın ve o korkunç yanık silikon kokusunu alırsın. Ve unutma, duman bir kez çıktıysa, o komponentin ruhu bedeni terk etmiştir; geri döndürülemez."*
 
 ---

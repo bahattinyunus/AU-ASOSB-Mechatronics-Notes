@@ -1,5 +1,8 @@
 # 06. Projeler & Laboratuvarlar: İspat Meydanı ve Hurdalık (The Proving Ground)
 
+![Challenge](https://img.shields.io/badge/Challenge-ACCEPTED-success?style=for-the-badge&logo=target)
+![Mode](https://img.shields.io/badge/Mode-Survival-critical?style=for-the-badge)
+
 > *"Teoride, teori ile pratik aynıdır. Pratikte ise, dağlar kadar farklıdır."*
 
 Burası steril bir sınıf veya sessiz bir kütüphane değil; burası bir **hurdalıktır**. Burası, bilgisayar ekranında mükemmel çalışan algoritmaların donanımla buluşunca patladığı, simülasyonda kusursuz oturan tasarımların montajda deliklerinin birbirini karşılamadığı, kabloların koptuğu, dumanların çıktığı ve gerçek öğrenmenin başladığı yerdir.

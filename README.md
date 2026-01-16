@@ -1,13 +1,54 @@
 ﻿# 🤖 Türkiye Mekatronik & Endüstriyel Otomasyon Rehberi: Dijital Tesisatçılık ve Siber Tamir Atölyesi
 
-> **Türkiye Cumhuriyeti'nin Geleçeki "Metal Yaka" Teknikerleri, Mühendisleri ve "Teknoloji Mimarları" İçin Nihai Bilgi Üssü**  
+> **Türkiye Cumhuriyeti'nin Gelecekteki "Metal Yaka" Teknikerleri, Mühendisleri ve "Teknoloji Mimarları" İçin Nihai Bilgi Üssü**  
 > *Bu eser, Türkiye Cumhuriyeti'nin teknolojik bağımsızlık mücadelesine ve ülkenin dört bir yanındaki Meslek Yüksekokulları ile Teknik Fakültelere ithaf edilmiştir.*
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/bahattinyunus/AU-ASOSB-Mechatronics-Notes?style=for-the-badge&color=gold)
+![GitHub forks](https://img.shields.io/github/forks/bahattinyunus/AU-ASOSB-Mechatronics-Notes?style=for-the-badge&color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/bahattinyunus/AU-ASOSB-Mechatronics-Notes?style=for-the-badge&color=blue)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-Metal%20%26%20Code-red?style=for-the-badge)
+
+</div>
 
 ![Mekatronik Banner](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=2070)
 
 ## 📖 Bu Depo Hakkında: Tasarım Çağının Sonu, Entegrasyon Çağının Başlangıcı
 
 **Türkiye Mekatronik Rehberi** deposuna, daha doğrusu **atölyesine** hoş geldiniz. Bu proje, sıradan bir üniversite ders notları arşivi olmanın, PDF'lerin ve slaytların saklandığı tozlu bir raf olmanın çok ötesindedir. Burası; Edirne'den Kars'a, Samsun'dan Hatay'a kadar tüm Türkiye'deki Mekatronik öğrencileri, organize sanayi bölgelerinde (OSB) ter döken mühendisler, üretim bandındaki teknikerler ve geleceğin teknolojisini elleriyle şekillendiren "Metal Yaka" zanaatkarları için canlı, nefes alan bir manifestodur.
+
+```mermaid
+graph TD
+    subgraph Kökler [📚 Akademik Temeller & Teori]
+        A[Matematik & Fizik]:::root --> B(Mühendislik Prensipleri):::root
+    end
+
+    subgraph Gövde [⚙️ Mekatronik Çekirdek]
+        B --> C{Mekatronik Entegrasyon}:::core
+        C --> D[Elektronik & Devre]:::elec
+        C --> E[Mekanik & Malzeme]:::mech
+        C --> F[Yazılım & AI]:::soft
+    end
+
+    subgraph Meyveler [🛡️ Metal Yaka Yetkinlikleri]
+        D --> G[Donanım Hata Ayıklama]:::skill
+        E --> H[Saha Tamiri & Montaj]:::skill
+        F --> I[Gömülü Sistem & Prompt Eng.]:::skill
+        G & H & I --> J((METAL YAKA\nTEKNOLOJİ MİMARI)):::goal
+    end
+
+    classDef root fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:black;
+    classDef core fill:#fff9c4,stroke:#fbc02d,stroke-width:4px,color:black,font-weight:bold;
+    classDef elec fill:#ffebee,stroke:#c62828,stroke-width:2px,color:black;
+    classDef mech fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:black;
+    classDef soft fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:black;
+    classDef skill fill:#eceff1,stroke:#455a64,stroke-width:1px,stroke-dasharray: 5 5,color:black;
+    classDef goal fill:#212121,stroke:#00e676,stroke-width:4px,color:#fff,font-weight:bold,font-size:16px;
+    
+    linkStyle default stroke:#333,stroke-width:2px;
+```
 
 Amacımız, sadece vize ve finalleri geçirmek değil, **Yapay Zeka (AI)** devrimi sonrası temellerinden sarsılan ve yeniden kurulan endüstriyel dünyada ayakta kalacak, vazgeçilmez bir mesleki kimlik inşa etmektir. Türk sanayisinin ihtiyacı olan şey sadece diploma değil, **"sahada iş çözen"** nitelikli insan gücüdür.
 
