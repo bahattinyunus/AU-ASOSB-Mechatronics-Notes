@@ -58,6 +58,8 @@ Bu depo, akademik dünyanın köklü **teorik derinliği** ile; Türkiye'nin dö
 
 > *"Bizler tasarımcı değiliz; bizler dijital çağın tesisatçılarıyız. AI, mimar gibi sistemi tasarlar, kodunu yazar, devre kartını çizer; biz ise o sistemi fiziksel dünyada inşa eder, kablosunu çeker ve yaşatırız."*
 
+![Dijital Tesisatçılık](./assets/manifesto_digital_plumber.png)
+
 2023 yılında başlayan Yazılım Mühendisliği serüvenimde, Yapay Zeka'nın (AI) tasarım, kodlama, optimizasyon ve veri analizi gibi insan beyni gerektiren bilişsel süreçleri nasıl inanılmaz bir hızla domine ettiğine, metalaştırdığına ve ucuzlattığına bizzat şahit oldum. Bugün geldiğimiz noktada AI, insan zekasının saatler, hatta günler süren karmaşık hesaplamalarını saniyeler içinde hatasız bir şekilde tamamlayabiliyor. Bu baş döndürücü değişim karşısında, AI öncesi dönemin hantal, yavaş ve tamamen teorik hesaplamalara odaklanan klasik "beyaz yaka" mühendislik yaklaşımının (hesap yapan mühendis) yetersiz kaldığını ve hatta sahada geçerliliğini yitirdiğini gördüm.
 
 Bu radikal farkındalık ve varoluşsal kriz beni, dijitalin soyut, temiz ve güvenli ofis dünyasından; üretimin somut, fiziksel, kaotik, gürültülü ve "kirli" kalbine itti: **Mekatronik**. Ancak bu, teknolojiden ve yazılımdan bir kaçış veya geri dönüş değildir; aksine teknolojinin en uç noktası olan AI'ı, metale, elektriğe ve harekete hükmetmek için bir araç olarak kullanma stratejisidir. Gelecekte ekrana bakıp sadece "kod yazan" değil; yazdığı kodu makineye işleyen, "kodu metale dönüştüren" kazanacaktır.
@@ -70,6 +72,8 @@ Bizler, iki dünya (Sanallık ve Gerçeklik) arasındaki köprüyüz. AI, sistem
 
 *   **Vizyon:** Yapay zeka destekli ileri tasarım tekniklerini, yüzyılların getirdiği "Usta-Çırak" ve Anadolu'nun "Ahi" kültürüyle, modern endüstriyel zanaatkarlıkla harmanlayan; "masa başı" raporlayan değil "tezgah başı" çözüm üreten; duran fabrikaları, arıza yapan otonom sistemleri, kilitlenen robotları hayata döndüren **"Metal Yaka"** iş gücünü oluşturmak.
 *   **Misyon:** Karmaşık teorik hesaplamaların yükünü AI asistanlarına devredip, insanın odak noktasını "Arıza Tespiti (Diagnosis)", "Sistem Entegrasyonu" ve "Sistemi Ayakta Tutma" sanatına kaydırarak; AI'ın kusursuz hesaplamalarını gerçek, fiziksel ve çalışan makinelere dönüştürmek için gereken pratik, tecrübeye dayalı "kirli el" bilgisini **tüm Türkiye için** erişilebilir kılmak (demokratize etmek).
+
+![Siber Tamir Atölyesi](./assets/vision_cyber_repair.png)
 
 ---
 
@@ -92,6 +96,8 @@ Bu depo, YÖK uyumlu modern bir Mekatronik/Otomasyon müfredatını, akademik ba
 
 Modern bir Mekatronik Teknikerinin, yani Metal Yaka mühendisinin alet çantası; hem dijital (yazılım/AI) hem de fiziksel (donanım/tamir) araçlarla doludur ve bu iki dünya arasında akışkan bir geçiş gerektirir.
 
+![Modern Tamir Çantası](./assets/tech_stack_toolbox.png)
+
 ### 💻 Yazılım & Gömülü Sistemler (Dijital Teşhis Cihazları)
 *   **Diller:** C ve C++ (Donanımla, bitlerle ve baytlarla konuşmak için), Python (AI modelleriyle ve veri analiziyle konuşmak için), MATLAB (Sistemin hastalığını simüle etmek için).
 *   **Gömülü Platformlar:** STM32 (Endüstriyel standart, ARM mimarisi) ve ESP32 (IoT). Bunlar sadece silikon çip değildir; makinenin beynidir. Bir beyin cerrahı titizliğiyle, register (yazmaç) seviyesinde müdahale ederiz.
@@ -111,6 +117,8 @@ Modern bir Mekatronik Teknikerinin, yani Metal Yaka mühendisinin alet çantası
 ## 🚀 Kariyer Yol Haritası: Çıraklıktan Arıza Uzmanlığına
 
 Mekatronik, disiplinler arası uçsuz bucaksız bir okyanustur. Bu okyanusta "usta" olmak, her şeyi teorik olarak bilmek değil, karşılaştığın her sistemi "tamir edebilmek" ve "yürütebilmek" demektir.
+
+![Kariyer Yükselişi](./assets/career_path_ascent.png)
 
 ### Faz 1: Çırak - Aleti Tanıma ve Saygı Duyma (Yıl 1-2)
 Bu aşamada amacımız, elimizdeki aletlerin (hem yazılım hem donanım) dilini çözmek ve limitlerini öğrenmektir.
